@@ -21,7 +21,7 @@ let cowboys = [
         "name": "Léo Mazeau",
         "role": "Trésorier",
         "pole": "Bureau",
-        "desc": "",
+        "desc": "Radin mais pas avec l'lcool",
     },
     {
         "name": "Thomas Poupon",
@@ -123,7 +123,7 @@ let cowboys = [
         "name": "Hugo Giraud",
         "role": "",
         "pole": "Pôle sécurité",
-        "desc": "",
+        "desc": "Tout sera en sécurité, sauf les verres remplis",
     },
 ];
 
