@@ -1,7 +1,7 @@
 let faq = [
     {
         "q": "Quels sont vos projets pour l’année prochaine si vous êtes élu BDE?",
-        "a": "D’une part nous voulons maintenir ce qui se fait déjà, c’est à dire maintenir les évènements et les soirées qui ont eu lieu les années précédantes et remettre en place les évènements qui n’ont pas pu être réalisés ces deux dernières années à cause de la situation sanitaire. D’autres part nous voulons renforcer la vie étudiante de l’école en proposant une soirée dans le même style que la Back To School. tous les 1 ou 2 mois."
+        "a": "D’une part nous voulons maintenir ce qui se fait déjà, c’est à dire maintenir les évènements et les soirées qui ont eu lieu les années précédentes et remettre en place les évènements qui n’ont pas pu être réalisés ces deux dernières années à cause de la situation sanitaire. D’autres part nous voulons renforcer la vie étudiante de l’école en proposant une soirée dans le même style que la Back To School. tous les 1 ou 2 mois."
     },
     {
         "q": "Est ce que cela demande beaucoup de travail de lister ? ",
