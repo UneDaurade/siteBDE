@@ -3,7 +3,6 @@ let pages = [
     { "name": "Vidéo", "href": "video.html" },
     { "name": "Menu", "href": "menu.html" },
     { "name": "Activités", "href": "activites.html" },
-    { "name": "Soirée", "href": "soiree.html" },
     { "name": "Jeu", "href": "https://play.paulorado.fr" },
     { "name": "FAQ", "href": "faq.html" },
 
