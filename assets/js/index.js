@@ -21,7 +21,7 @@ let cowboys = [
         "name": "Léo Mazeau",
         "role": "Trésorier",
         "pole": "Bureau",
-        "desc": "Radin mais pas avec l'lcool",
+        "desc": "Le froid ? Ni ici ni ailleurs",
     },
     {
         "name": "Thomas Poupon",
@@ -45,7 +45,7 @@ let cowboys = [
         "name": "Alexandre Legrand",
         "role": "",
         "pole": "Pôle communication",
-        "desc": "",
+        "desc": "It's high NOOT NOOT!",
     },
     {
         "name": "Quentin Bouillon",
