@@ -1,10 +1,10 @@
 let pages = [
-    { "name": "Accueil", "href": "index.html" },
-    { "name": "Vidéo", "href": "video.html" },
-    { "name": "Menu", "href": "menu.html" },
-    { "name": "Activités", "href": "activites.html" },
+    { "name": "Accueil", "href": "index" },
+    { "name": "Vidéo", "href": "video" },
+    { "name": "Menu", "href": "menu" },
+    { "name": "Activités", "href": "activites" },
     { "name": "Jeu", "href": "https://play.paulorado.fr" },
-    { "name": "FAQ", "href": "faq.html" },
+    { "name": "FAQ", "href": "faq" },
 
 ]
 
