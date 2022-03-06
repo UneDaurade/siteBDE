@@ -2,3 +2,15 @@ body {
   background: lightyellow;
   color: #37434d;
 }
+
+.btn-primary {
+  background-color: rgb(120,79,65);
+}
+
+.btn-primary:hover {
+  background-color: rgb(92, 59, 48);
+}
+
+.btn-primary:focus {
+  background-color: rgb(92, 59, 48);
+}
