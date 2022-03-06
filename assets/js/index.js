@@ -130,7 +130,7 @@ let cowboys = [
 function rewardCalculator(str) {
 
     // P and M
-    let p = 4489;
+    let p = 4491;
     let m = (1e3 + 9);
     let power_of_p = 1;
     let hash_val = 0;
