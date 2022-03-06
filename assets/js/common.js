@@ -1,5 +1,5 @@
 let pages = [
-    { "name": "Accueil", "href": "index" },
+    { "name": "Accueil", "href": "index.html" },
     { "name": "Vidéo", "href": "video" },
     { "name": "Menu", "href": "menu" },
     { "name": "Activités", "href": "activites" },
