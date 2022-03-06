@@ -31,9 +31,9 @@ let cowboys = [
     },
     {
         "name": "Alexandru Moldovan",
-        "role": "",
+        "role": "Touche-à-tout",
         "pole": "Pôle communication",
-        "desc": "",
+        "desc": "Producteur de tuica à ses heures perdues",
     },
     {
         "name": "Samuel Rodrigues",
@@ -49,7 +49,7 @@ let cowboys = [
     },
     {
         "name": "Quentin Bouillon",
-        "role": "",
+        "role": "Directeur-Réalisateur",
         "pole": "Pôle communication",
         "desc": "",
     },
