@@ -38,7 +38,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col mt-5 align-self-center text-center">
-                        <img class="m-5 img-fluid" src="/assets/img/menu.png" alt="">
+                        <img class="mx-auto mb-5 img-fluid" src="/assets/img/menu.png" alt="">
                     </div>
                 </div>
             </div>
