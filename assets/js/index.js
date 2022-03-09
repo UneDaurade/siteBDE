@@ -33,7 +33,7 @@ let cowboys = [
         "name": "Alexandru Moldovan",
         "role": "Touche-à-tout",
         "pole": "Pôle communication",
-        "desc": "Producteur de tuica à ses heures perdues",
+        "desc": "Producteur de tuica à ses heures perdues, a déjà commencé à organiser un événement anniversaire pour l'année prochaine",
     },
     {
         "name": "Samuel Rodrigues",
